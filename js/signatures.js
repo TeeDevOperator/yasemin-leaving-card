@@ -41,4 +41,12 @@ window.SIGNATURES = [
     colour: "#2a9d8f",
     size: 1.7,
   },
+  {
+    name: "Shadab Khan",
+    message:
+      "Really liked how calm and calculative you used to be while explaining a task and how open you used to be listening to the other perspective. During the course of our time in this project, I learned a lot of new ways of how I can leverage AI tools best and other such tricks from you.\nI wish you all the very best in whatever you choose to do next.",
+    font: "Dancing Script",
+    colour: "#6a4c93",
+    size: 1.4,
+  },
 ];
