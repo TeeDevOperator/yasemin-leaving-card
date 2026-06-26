@@ -41,4 +41,11 @@ window.SIGNATURES = [
     colour: "#2a9d8f",
     size: 1.7,
   },
+  {
+    name: "Tahmid",
+    message:
+      "Wishing you all the best in your new role, Yasemin! You've been an integral part of the team — always able to get to grips with even the most complex parts of the system, and just as good at explaining it clearly. You'll be brilliant. Take care!",
+    font: "Architects Daughter",
+    colour: "#1a3a6b",
+  },
 ];
